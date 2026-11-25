@@ -167,9 +167,9 @@ leipzig-demographic-sql-analysis/
 - [x] CSV import
 - [x] Initial column renaming
 - [x] Basic SQL exploration
-- [ ] Data quality investigation
-- [ ] Population analysis
-- [ ] Age group analysis
+- [x] Data quality investigation
+- [x] Population analysis
+- [x] Age group analysis
 - [ ] Advanced SQL queries
 - [ ] Final business insights
 
